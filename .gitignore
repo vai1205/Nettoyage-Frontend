@@ -105,3 +105,6 @@ dist
 
 # nextJs configuration file
 next.config.js
+
+# DS store
+.DS Store
