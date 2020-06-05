@@ -41,7 +41,7 @@ const french = {
     ],
     defaultOption:"Sélectionnez un service",
     readMore:"Lire la suite",
-    close:"proche",
+    close:"Fermer",
     ctaHeading:"Bienvenue chez Nettoyage Exclusif!",
     ctaBody:"Nous faisons le nettoyage, afin que vous puissiez vous concentrer sur vos affaires!",
     ctaFooter:"Nettoyage Exclusif a l’expertise et le savoir-faire de mettre en place un programme personnalisé de service de nettoyage pour répondre à vos besoins spécifiques et à votre budget.",
